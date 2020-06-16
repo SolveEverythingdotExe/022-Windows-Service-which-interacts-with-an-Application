@@ -1,0 +1,93 @@
+﻿Installing assembly 'E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Installing service FirstWindowsService...
+Service FirstWindowsService has been successfully installed.
+Creating EventLog source FirstWindowsService in log Application...
+Committing assembly 'E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Uninstalling assembly 'E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Removing EventLog source FirstWindowsService.
+Service FirstWindowsService is being removed from the system...
+Service FirstWindowsService was successfully removed from the system.
+Installing assembly 'E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Installing service FirstWindowsService...
+Creating EventLog source FirstWindowsService in log Application...
+Rolling back assembly 'E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Restoring event log to previous state for source FirstWindowsService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Installing service FirstWindowsService...
+Service FirstWindowsService has been successfully installed.
+Creating EventLog source FirstWindowsService in log Application...
+Committing assembly 'E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Uninstalling assembly 'E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Removing EventLog source FirstWindowsService.
+Service FirstWindowsService is being removed from the system...
+Service FirstWindowsService was successfully removed from the system.
+Installing assembly 'E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Installing service FirstWindowsService...
+Service FirstWindowsService has been successfully installed.
+Creating EventLog source FirstWindowsService in log Application...
+Committing assembly 'E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Uninstalling assembly 'E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+   assemblypath = E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+Removing EventLog source FirstWindowsService.
+Service FirstWindowsService is being removed from the system...
+Service FirstWindowsService was successfully removed from the system.
+Attempt to stop service FirstWindowsService.
+Installing assembly 'D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+   logfile = D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog
+Installing service FirstWindowsService...
+Service FirstWindowsService has been successfully installed.
+Creating EventLog source FirstWindowsService in log Application...
+Committing assembly 'D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+   logfile = D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.InstallLog

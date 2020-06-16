@@ -1,0 +1,28 @@
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe.config
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.FirstWindowsService.resources
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.ProjectInstaller.resources
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.pdb
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.exe
+E:\Projects\C#\YT\021\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.pdb
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe.config
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.exe
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.pdb
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.pdb
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.FirstWindowsService.resources
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.ProjectInstaller.resources
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\022\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.csprojResolveAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe.config
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.exe
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\bin\Debug\FirstWindowsServiceProject.pdb
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.FirstWindowsService.resources
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.ProjectInstaller.resources
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.exe
+D:\Projects\C#\YT\SolveEverything.exe\022 - Windows Service which interacts with an Application\FirstWindowsServiceProject\FirstWindowsServiceProject\obj\Debug\FirstWindowsServiceProject.pdb
